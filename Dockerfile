@@ -1,4 +1,4 @@
-FROM dockerfile/java:openjdk-7-jre
+FROM java:openjdk-7-jre
 
 MAINTAINER Oliver Lade <piemaster21@gmail.com>
 # See https://github.com/NetLogo/NetLogo/wiki/Controlling-API
